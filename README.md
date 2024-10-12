@@ -21,6 +21,6 @@ The Code in Place Course take the first half of CS106A, online for free, with th
 In this repository, I have added the coding challenges and solutions from Code in Place Course from April 2024. There are at least 5 exercises per week, starting with Karel which is a programming language and a robot that can be used to teach beginners how to program. Later, the coding challenges moved on to Python (intro, control flow, graphics and functions, and data)
 
 
-The course ends with the design and submission of the final project, or at least it was like that for me. After you submit your project and finish all the lessons and key challenges you will have access to your certificate.
+The course ends with the design and submission of the final project, or at least it was like that for me. After you submit your project, finish all the lessons and key challenges you will have access to your certificate.
 
 The Information provided from the Code in Place Course was taken from https://codeinplace.stanford.edu/
