@@ -18,4 +18,4 @@ Even though the program is only a few lines, it is still worth getting at least 
 
 
 When you are finished the world should look like this:
-
+![preview](preview.gif)
